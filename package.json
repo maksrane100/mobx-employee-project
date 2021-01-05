@@ -28,7 +28,7 @@
   "dependencies": {
     "ajax": "0.0.4",
     "autobind-decorator": "^2.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "mobx": "^3.0.0",
     "mobx-react": "^4.1.0",
     "mobx-react-devtools": "^4.2.11",
